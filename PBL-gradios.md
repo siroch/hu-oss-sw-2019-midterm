@@ -7,3 +7,10 @@ My PBL contribution list
 | hit enemy  | [#225](https://github.com/inureyes/gradios/issues/225) | https://github.com/inureyes/gradios/pull/240 |
 | kill_explosion | [#233](https://github.com/inureyes/gradios/issues/233) | https://github.com/inureyes/gradios/pull/235 |
 | explosion_effect | [#258](https://github.com/inureyes/gradios/issues/258) | https://github.com/inureyes/gradios/pull/259 |
+
+
+Idea for project
+================
+
+ * boss respone
+ * another stage
